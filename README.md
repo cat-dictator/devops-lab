@@ -4,17 +4,17 @@ This repository documents my systematic approach to mastering DevOps tools and p
 
 ## Table of Contents
 - [Learning Methodology](#learning-methodology)
-- [Medium Blog Posts](medium-blog-posts)
-- [Technical Progression Roadmap](technical-progression-roadmap)
-- - [done] [Phase 1: System Fundamentals](phase-1-system-fundamentals)
-  - [in progress] [Phase 2: Containerization & Local Orchestration](phase-2-containerization--local-orchestration)
-  - [planned] [Phase 3: Networked Deployment](phase-3-networked-deployment)
-  - [planned] [Phase 4: Automation Pipeline](phase-4-automation-pipeline)
-  - [planned] [Phase 5: Cloud-Native Implementation](phase-5-cloud-native-implementation)
-- [Core Project: Intelligent Recipe System](core-project-intelligent-recipe-system)
-- [Technology Stack](technology-stack)
-- [Metrics & Success Criteria](metrics--success-criteria)
-- [Documentation Philosophy](documentation-philosophy)
+- [Medium Blog Posts](#medium-blog-posts)
+- [Technical Progression Roadmap](#technical-progression-roadmap)
+- - [done] [Phase 1: System Fundamentals](#phase-1-system-fundamentals)
+  - [in progress] [Phase 2: Containerization & Local Orchestration](#phase-2-containerization--local-orchestration)
+  - [planned] [Phase 3: Networked Deployment](#phase-3-networked-deployment)
+  - [planned] [Phase 4: Automation Pipeline](#phase-4-automation-pipeline)
+  - [planned] [Phase 5: Cloud-Native Implementation](#phase-5-cloud-native-implementation)
+- [Core Project: Intelligent Recipe System](#core-project-intelligent-recipe-system)
+- [Technology Stack](#technology-stack)
+- [Metrics & Success Criteria](#metrics--success-criteria)
+- [Documentation Philosophy](#documentation-philosophy)
 
 
 ## Learning Methodology
