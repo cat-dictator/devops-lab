@@ -10,6 +10,10 @@ This repository documents my systematic approach to mastering DevOps tools and p
 - **Observability-first**: All projects include monitoring from inception
 
 
+## Medium Blog Posts
+- **June 8, 2025** - [Installing Void Linux for DevOps: Why I Chose It and How to Avoid My Mistakes](https://medium.com/@Svitlana_Polishchuk/installing-void-linux-for-devops-why-i-chose-it-and-how-to-avoid-my-mistakes-efffb437a960?source=friends_link&sk=ab5b08c979210fe3cc792abb9a4b40e7)
+- **June 15, 2025** - [Void Linux Post-Install: i3wm, Dotfiles, and DevOps Tools](#) (upcoming)
+
 
 ## Technical Progression Roadmap
 
