@@ -3,7 +3,7 @@ This repository documents my systematic approach to mastering DevOps tools and p
 
 
 ## Table of Contents
-- [Learning Methodology](learning-methodology)
+- [Learning Methodology](#learning-methodology)
 - [Medium Blog Posts](medium-blog-posts)
 - [Technical Progression Roadmap](technical-progression-roadmap)
 - - [done] [Phase 1: System Fundamentals](phase-1-system-fundamentals)
