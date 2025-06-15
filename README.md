@@ -2,6 +2,20 @@
 This repository documents my systematic approach to mastering DevOps tools and practices through hands-on projects
 
 
+## Table of Contents
+- [Learning Methodology](learning-methodology)
+- [Medium Blog Posts](medium-blog-posts)
+- [Technical Progression Roadmap](technical-progression-roadmap)
+- - [done] [Phase 1: System Fundamentals](phase-1-system-fundamentals)
+  - [in progress] [Phase 2: Containerization & Local Orchestration](phase-2-containerization--local-orchestration)
+  - [planned] [Phase 3: Networked Deployment](phase-3-networked-deployment)
+  - [planned] [Phase 4: Automation Pipeline](phase-4-automation-pipeline)
+  - [planned] [Phase 5: Cloud-Native Implementation](phase-5-cloud-native-implementation)
+- [Core Project: Intelligent Recipe System](core-project-intelligent-recipe-system)
+- [Technology Stack](technology-stack)
+- [Metrics & Success Criteria](metrics--success-criteria)
+- [Documentation Philosophy](documentation-philosophy)
+
 
 ## Learning Methodology
 - **Project-driven**: Skills acquired through building real systems
@@ -11,8 +25,8 @@ This repository documents my systematic approach to mastering DevOps tools and p
 
 
 ## Medium Blog Posts
-- **June 8, 2025** - [Installing Void Linux for DevOps: Why I Chose It and How to Avoid My Mistakes](https://medium.com/@Svitlana_Polishchuk/installing-void-linux-for-devops-why-i-chose-it-and-how-to-avoid-my-mistakes-efffb437a960?source=friends_link&sk=ab5b08c979210fe3cc792abb9a4b40e7)
-- **June 15, 2025** - [Void Linux Post-Install: i3wm, Dotfiles, and DevOps Tools](#) (upcoming)
+- [Installing Void Linux for DevOps: Why I Chose It and How to Avoid My Mistakes](https://medium.com/@Svitlana_Polishchuk/installing-void-linux-for-devops-why-i-chose-it-and-how-to-avoid-my-mistakes-efffb437a960?source=friends_link&sk=ab5b08c979210fe3cc792abb9a4b40e7) - *June 8, 2025*
+- [Void Linux Post-Install: i3wm, Dotfiles, and DevOps Tools](#) (upcoming) - *June 15, 2025*
 
 
 ## Technical Progression Roadmap
